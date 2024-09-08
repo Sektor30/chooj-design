@@ -307,10 +307,29 @@ footer{
 }
 
 
-@media screen and (max-width:780px) {
+
+@media screen and (max-width:1000px){
+    body{
+        
+       width: 100%;
+       
+    }
+    header{
+        
+       width: 100%;
+       
+    }
+
+
+
+@media screen and (max-width:880px) {
 
     body{
-        width: 780px;
+        width: 880px;
+    }
+
+    header{
+        width:880px ;
     }
 
     .busqueda{
@@ -403,9 +422,10 @@ footer{
 }
 
 .container-uno > img{
-    width: 630px;
-    height: 380px;
-    margin: 20px auto;    
+    width: 80%;
+    height: 40%;
+    margin: 10px auto; 
+    
     
 }
 
@@ -484,8 +504,26 @@ footer{
 }
 
 
+@media screen and (max-width:400px){
+    body{
+        
+       width: 400px;
+       
+    }
 
-@media screen and (max-width:500px){
+    header{
+        width: 400px;
+    }
+
+    .container-uno > img{
+        height: 300px;
+        margin: 20px auto ;
+        width: 300px; 
+            
+    }
+}
+
+/* @media screen and (max-width:500px){
 
     
     .container-uno {
@@ -501,5 +539,5 @@ footer{
         
     }
 
-}
+} */
 
