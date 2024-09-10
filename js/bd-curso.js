@@ -6,7 +6,7 @@
         
         videos: [
           { id: 1,
-            descripcion: "",
+            descripcion: "una",
             autor:"",
             titulo: "Introducción al Guion Cinematográfico",
             enlace: "https://www.youtube.com/watch?v=G46Hn4sOOWQ"
@@ -56,7 +56,7 @@
         ]
       },
       {
-        nombre: Edición,
+        nombre: "Edición",
         videos: [
           {id: 9,
             descripcion: "",
