@@ -8,12 +8,12 @@ modulos.forEach(element => {
     card.classList.add("card");
 
     card.innerHTML=     
- ` <div class="container entradas" ">
+ ` <div class="container entradas" ${element.videos}>
         <div class="img-news"></div>
             <div class="cuadro">
                 <div class="usuarioContenedor">
                     <div class="usuario" >
-                        <img src="${element.enlace}" 
+                        <img src=" ${element.enlace}" 
                         width="100%" alt="avatar" style="border-radius: 50%;">
                     
                     </div>
