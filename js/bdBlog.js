@@ -5,47 +5,55 @@
             descripcion: "una",
             autor:"",
             titulo: "Introducción al Guion Cinematográfico",
+            imagen:".&";
             enlace: "https://www.youtube.com/watch?v=G46Hn4sOOWQ"
           },
           {id: 2,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Estructura de un Guion",
             enlace: "https://www.youtube.com/watch?v=NN0J5GVk-tU"
           },
           {id: 3,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Desarrollo de Personajes",
             enlace: "https://www.youtube.com/watch?v=fH8K7J9ZRHE"
           },
           {id: 4,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Diálogos Efectivos",
             enlace: "https://www.youtube.com/watch?v=wC_TTfzSgE4"
           },
           {id: 5,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "El Viaje del Héroe en el Guion",
             enlace: "https://www.youtube.com/watch?v=_r7GBqBrJt8"
           },
           {id: 6,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Creación de Mundos y Ambientación",
             enlace: "https://www.youtube.com/watch?v=3grqfjY8SWc"
           },
           {id: 7,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Cómo Escribir una Escena",
             enlace: "https://www.youtube.com/watch?v=8vD6a4q4Z4Y"
           },
           {id: 8,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Errores Comunes en el Guion",
             enlace: "https://www.youtube.com/watch?v=IfaFTGPR9Jk"
           },
@@ -53,6 +61,7 @@
           {id: 9,
             descripcion: "",
             autor:"",
+            imagen:"";
             titulo: "Fundamentos de la Edición de Video",
             enlace: "https://www.youtube.com/watch?v=KFTk2VtGZ4E"
           },
