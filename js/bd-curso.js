@@ -1,5 +1,5 @@
 
-    let modulos= [
+    let videosMod= [
       {
         
         nombre: "Guiones",
