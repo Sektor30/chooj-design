@@ -1,14 +1,12 @@
 const container = document.querySelector('.contenedor');
 
 
-
-
 modulos.forEach(element => {
     let card = document.createElement('div');
     card.classList.add("card");
 
     card.innerHTML=     
- ` <div class="container entradas" ${element.videos}>
+ ` <div class="container entradas" ${element.video}>
         <div class="img-news"></div>
             <div class="cuadro">
                 <div class="usuarioContenedor">

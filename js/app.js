@@ -2,8 +2,8 @@
 
 
 
-
-function mostrarResults(results){
+/* crear filtros */
+/* function mostrarResults(results){
 modulos.forEach(element => {
     let card = document.createElement('div');
     card.classList.add("card");
@@ -36,4 +36,4 @@ modulos.forEach(element => {
 })
 
 
-}
+} */
